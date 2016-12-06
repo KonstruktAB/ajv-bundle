@@ -1,11 +1,11 @@
 {
   "name": "ajv-bundle",
-  "homepage": "https://github.com/epoberezkin/ajv",
+  "homepage": "https://github.com/KonstruktAB/ajv-bundle",
   "authors": [
     "Mathias Dosé <mathias.dose@hotmail.se>"
   ],
   "description": "This contains the ajv bundle which makes ajv usable in browsers",
-  "main": "ajv-bundle.js",
+  "main": "ajv.bundle.js",
   "moduleType": [
     "globals"
   ],
